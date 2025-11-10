@@ -1,8 +1,8 @@
 <p align="center">
 	<img alt="logo" width=200" src="img/logo_bitcoin.png">
 </p>
-<h4 align="center">多语言仿okx欧意交易所系统/币币合约秒合约/锁仓挖矿</h4>
-<h4 align="center">本系统源码下载，如有需要的请联系客服</h4>
+<h4 align="center">多语言仿okx欧意交易所系统/币币合约秒合约/锁仓挖矿/交易所/数字货币</h4>
+<h4 align="center">交易所源码下载，如有需要的请联系客服</h4>
 <p align="center">
  <img src="https://img.shields.io/badge/-币安交易所-red.svg" alt="Downloads">
  <img src="https://img.shields.io/badge/-智能合约-yellow.svg" alt="Downloads">
@@ -13,6 +13,7 @@
  <img src="https://img.shields.io/badge/-区块链-blue.svg" alt="Downloads">
  <img src="https://img.shields.io/badge/-币安链-green.svg" alt="Downloads">
 </p>
+
 
 
 <div align="center">
@@ -26,9 +27,9 @@
   </p>
 </div>
 
-## 1.项目简介
+## 1.交易所项目简介
 
-BTC超级合约震撼上线，专为短线之王打造。30秒K线，价杠杆从100倍到10000倍自由滑选，方向看对即可放大收益。合约周期内全程零爆仓，系统自动锁仓，无惧插针，安心持仓到结算。链上数据源，公开透明，收益实时实时结算。
+数字货币交易所震撼上线，专为短线之王打造。30秒K线，价杠杆从100倍到10000倍自由滑选，方向看对即可放大收益。合约周期内全程零爆仓，系统自动锁仓，无惧插针，安心持仓到结算。链上数据源，公开透明，收益实时实时结算。
 
 ## 2.代码架构
 ``` 
@@ -40,7 +41,7 @@ exchange-api
 ```
 
 
-## 4.合作/源码下载联系客服：
+## 4.合作/交易所源码下载联系客服：
 点击Telegram访问：[dhng885](https://t.me/dhng885)
 <table>
   <tr>
