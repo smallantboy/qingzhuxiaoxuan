@@ -40,7 +40,7 @@ exchange-api
 ```
 
 
-## 4.合作/购买源码(3,000U) 联系客服：
+## 4.合作/源码下载联系客服：
 点击Telegram访问：[dhng885](https://t.me/dhng885)
 <table>
   <tr>
